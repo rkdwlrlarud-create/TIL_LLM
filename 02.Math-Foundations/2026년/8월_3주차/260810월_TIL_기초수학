@@ -9,11 +9,11 @@
 개념 쪽의 이해가 쉽지 않아 AI 문답을 통해 쉬운 비유를 통해 이해하려고 노력했다.
 
 1. 오늘 배운 것
-Transformer와 Self-Attention의 핵심 연산 매커니즘 (Q, K, V, 루트(d_k) 스케일링, Causal Mask, Temperature)
-딥러닝 학습을 위한 기초 수학 (미분, 편미분, Gradient)
-손실을 줄이는 경사하강법(Gradient Descent)과 학습률(Learning Rate)의 스케일 조절
-연쇄법칙(Chain Rule)을 통한 역전파(Backpropagation) 흐름
-PyTorch 학습 루프 5단계와 기울기 누적(Gradient Accumulation) 원리 및 Git 터미널 동기화 방법
+- Transformer와 Self-Attention의 핵심 연산 매커니즘 (Q, K, V, 루트(d_k) 스케일링, Causal Mask, Temperature)
+- 딥러닝 학습을 위한 기초 수학 (미분, 편미분, Gradient)
+- 손실을 줄이는 경사하강법(Gradient Descent)과 학습률(Learning Rate)의 스케일 조절
+- 연쇄법칙(Chain Rule)을 통한 역전파(Backpropagation) 흐름
+- PyTorch 학습 루프 5단계와 기울기 누적(Gradient Accumulation) 원리 및 Git 터미널 동기화 방법
 
 2. 금일 핵심 개념
 1) Attention 연산 (Q, K, V & 루트(d_k) 스케일링)
